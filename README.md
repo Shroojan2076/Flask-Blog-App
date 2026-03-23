@@ -142,7 +142,7 @@ Flask-Blog-App
 ```
 git clone https://github.com/Shroojan2076/Flask-Blog-App.git
 
-cd flask-blog-platform
+cd Flask-Blog-App
 ```
 
 ### 2. Create a virtual environment
